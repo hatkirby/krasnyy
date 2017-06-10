@@ -50,6 +50,6 @@ _OakSpeechText3::
 
 	para "Мир мечтаний и"     ; A world of dreams and
 	line "приключений с"      ; adventures with
-	cont "ПОКЕМОНами ждет!"   ; POKEMON awaits!
+	cont "ПОКЕМОНами ждёт!"   ; POKEMON awaits!
 	cont "Идём!"              ; Let's go!
 	done
