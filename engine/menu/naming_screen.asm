@@ -366,10 +366,10 @@ PrintAlphabet:
 	jp Delay3
 
 LowerCaseAlphabet:
-	db "abcdefghijklmnopqrstuvwxyz ×():;[]",$e1,$e2,"-?!♂♀/⠄,¥UPPER CASE@"
+	db "абвгдеёжзийклмнопрстуфхцчшщъыьэюя ",$e1,$e2,"-()♂♀/⠄,¥ПРОПИСНЫЕ БУКВЫ@"
 
 UpperCaseAlphabet:
-	db "ABCDEFGHIJKLMNOPQRSTUVWXYZ ×():;[]",$e1,$e2,"-?!♂♀/⠄,¥lower case@"
+	db "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ ?!-[]:;/⠄,¥строчные буквы @"
 
 PrintNicknameAndUnderscores:
 	call CalcStringLength
