@@ -10,7 +10,7 @@ _OakWalksUpText::
 
 	para "Тебе должен твой"   ; You need your
 	line "собственный ПОКЕ-"  ; own POKE-
-	cont "МОН для твоего"     ; MON for your
+	cont "МОН для твоей"      ; MON for your
 	cont "защиты."            ; protection.
 	cont "Я знаю!"            ; I know!
 
