@@ -1,98 +1,98 @@
 ItemNames:
-	db "MASTER BALL@"
-	db "ULTRA BALL@"
-	db "GREAT BALL@"
-	db "POKé BALL@"
-	db "TOWN MAP@"
-	db "BICYCLE@"
+	db "МАСТЕР-БОЛЛ@"   ; MASTER BALL
+	db "УЛЬТРА-БОЛЛ@"   ; ULTRA BALL
+	db "МЕГА-БОЛЛ@"     ; GREAT BALL
+	db "ПОКЕ-БОЛЛ@"     ; POKE BALL
+	db "КАРТА ГОРОДА@"  ; TOWN MAP
+	db "ВЕЛОСИПЕД@"     ; BICYCLE
 	db "?????@"
-	db "SAFARI BALL@"
-	db "POKéDEX@"
-	db "MOON STONE@"
-	db "ANTIDOTE@"
-	db "BURN HEAL@"
-	db "ICE HEAL@"
-	db "AWAKENING@"
-	db "PARLYZ HEAL@"
-	db "FULL RESTORE@"
-	db "MAX POTION@"
-	db "HYPER POTION@"
-	db "SUPER POTION@"
-	db "POTION@"
-	db "BOULDERBADGE@"
-	db "CASCADEBADGE@"
-	db "THUNDERBADGE@"
-	db "RAINBOWBADGE@"
-	db "SOULBADGE@"
-	db "MARSHBADGE@"
-	db "VOLCANOBADGE@"
-	db "EARTHBADGE@"
-	db "ESCAPE ROPE@"
-	db "REPEL@"
-	db "OLD AMBER@"
-	db "FIRE STONE@"
-	db "THUNDERSTONE@"
-	db "WATER STONE@"
-	db "HP UP@"
-	db "PROTEIN@"
-	db "IRON@"
-	db "CARBOS@"
-	db "CALCIUM@"
-	db "RARE CANDY@"
-	db "DOME FOSSIL@"
-	db "HELIX FOSSIL@"
-	db "SECRET KEY@"
+	db "САФАРИ-БОЛЛ@"   ; SAFARI BALL
+	db "ПОКЕДЕКС@"      ; POKEDEX
+	db "ЛУННЫЙКАМЕНЬ@"  ; MOON STONE
+	db "ПРОТИВОЯДИЕ@"   ; ANTIDOTE
+	db "ОЖОГ ЛЕЧЕНИЕ@"  ; BURN HEAL
+	db "ЛЁД ЛЕЧЕНИЕ@"   ; ICE HEAL
+	db "ПРОБУЖДЕНИЕ@"   ; AWAKENING
+	db "БЕЗПАРАЛИЗУЙ@"  ; PARALYZ HEAL (DE-PARALYZE)
+	db "ПАНАЦЕЯ@"       ; FULL RESTORE (PANACEA)
+	db "ЛУЧШИЙ ЗЕЛЬЕ@"  ; MAX POTION (BEST POTION)
+	db "ГИПЕР ЗЕЛЬЕ@"   ; HYPER POTION
+	db "СУПЕР ЗЕЛЬЕ@"   ; SUPER POTION
+	db "ЗЕЛЬЕ@"         ; POTION
+	db "ВАЛУНЗНАЧОК@"   ; BOULDERBADGE
+	db "ВОДОПАДЗНАК@"   ; CASCADEBADGE
+	db "ГРОМЗНАЧОК@"    ; THUNDERBADGE
+	db "РАДУГАЗНАЧОК@"  ; RAINBOWBADGE
+	db "ДУШАЗНАЧОК@"    ; SOULBADGE
+	db "БОЛОТОЗНАЧОК@"  ; MARSHBADGE
+	db "ВУЛКАНЗНАЧОК@"  ; VOLCANOBADGE
+	db "ЗЕМЛЯЗНАЧОК@"   ; EARTHBADGE
+	db "ПОБЕГ КАНАТ@"   ; ESCAPE ROPE
+	db "РЕПЕЛЛЕНТ@"     ; REPEL (REPELLENT)
+	db "СТАРЫЙЯНТАРЬ@"  ; OLD AMBER
+	db "ОГОНЬ КАМЕНЬ@"  ; FIRE STONE
+	db "ГРОМ КАМЕНЬ@"   ; THUNDERSTONE
+	db "ВОДА КАМЕНЬ@"   ; WATER STONE
+	db "ОЖ ПРИПОСТ@"    ; HP UP (OZH UP)
+	db "БЕЛОК@"         ; PROTEIN
+	db "ЖЕЛЕЗО@"        ; IRON
+	db "САХАР@"         ; CARBOS (SUGAR)
+	db "КАЛЬЦИЙ@"       ; CALCIUM
+	db "РЕДКАКОНФЕТА@"  ; RARE CANDY
+	db "СТАРЫЙ КУПОЛ@"  ; DOME FOSSIL (OLD DOME)
+	db "СТАРАСПИРАЛЬ@"  ; HELIX FOSSIL (OLD HELIX)
+	db "ТАЙНЫЙ КЛЮЧ@"   ; SECRET KEY
 	db "?????@"
-	db "BIKE VOUCHER@"
-	db "X ACCURACY@"
-	db "LEAF STONE@"
-	db "CARD KEY@"
-	db "NUGGET@"
-	db "PP UP@"
-	db "POKé DOLL@"
-	db "FULL HEAL@"
-	db "REVIVE@"
-	db "MAX REVIVE@"
-	db "GUARD SPEC.@"
-	db "SUPER REPEL@"
-	db "MAX REPEL@"
-	db "DIRE HIT@"
-	db "COIN@"
-	db "FRESH WATER@"
-	db "SODA POP@"
-	db "LEMONADE@"
-	db "S.S.TICKET@"
-	db "GOLD TEETH@"
-	db "X ATTACK@"
-	db "X DEFEND@"
-	db "X SPEED@"
-	db "X SPECIAL@"
-	db "COIN CASE@"
-	db "OAK's PARCEL@"
-	db "ITEMFINDER@"
-	db "SILPH SCOPE@"
-	db "POKé FLUTE@"
-	db "LIFT KEY@"
-	db "EXP.ALL@"
-	db "OLD ROD@"
-	db "GOOD ROD@"
-	db "SUPER ROD@"
-	db "PP UP@"
-	db "ETHER@"
-	db "MAX ETHER@"
-	db "ELIXER@"
-	db "MAX ELIXER@"
-	db "B2F@"
-	db "B1F@"
-	db "1F@"
-	db "2F@"
-	db "3F@"
-	db "4F@"
-	db "5F@"
-	db "6F@"
-	db "7F@"
-	db "8F@"
-	db "9F@"
-	db "10F@"
-	db "11F@"
-	db "B4F@"
+	db "ВЕЛИК КУПОН@"   ; BIKE VOUCHER
+	db "ЕЩЁ ТОЧНОСТЬ@"  ; X ACCURACY (MORE ACCURACY)
+	db "ЛИСТ КАМЕНЬ@"   ; LEAF STONE
+	db "КЛЮЧ-КАРТА@"    ; CARD KEY
+	db "САМОРОДОК@"     ; NUGGET
+	db "ОС ПРИПОСТ@"    ; PP UP (OS UP)
+	db "ПОКЕ-КУКЛА@"    ; POKE DOLL
+	db "ВСЁ ЛЕЧЕНИЕ@"   ; FULL HEAL (ALL HEAL)
+	db "ОЖИВЛЕНИЕ@"     ; REVIVE
+	db "ВСЁОЖИВЛЕНИЕ@"  ; MAX REVIVE (ALL REVIVE)
+	db "УМЕНИЕ СТРАЖ@"  ; GUARD SPEC. (ABILITY GUARD)
+	db "СУПЕР РЕПЕЛ.@"  ; SUPER REPEL
+	db "ЛУЧШИЙРЕПЕЛ.@"  ; MAX REPEL (BEST REPEL)
+	db "ЕЩЁ КРИТИЧЕН@"  ; DIRE HIT (MORE CRITICAL)
+	db "МОНЕТА@"        ; COIN
+	db "ПИТЬЕВОЙВОДА@"  ; FRESH WATER
+	db "СОДОВАЯ@"       ; SODA POP (SODA)
+	db "ЛИМОНАД@"
+	db "СУДНО БИЛЕТ@"   ; S.S.TICKET (SHIP TICKET)
+	db "ЗОЛОТЫЕ ЗУБЫ@"  ; GOLD TEETH
+	db "ЕЩЁ АТАКА@"     ; X ATTACK (MORE ATTACK)
+	db "ЕЩЁ ОБОРОНА@"   ; X DEFEND (MORE DEFENSE)
+	db "ЕЩЁ СКОРОСТЬ@"  ; X SPEED (MORE SPEED)
+	db "ЕЩЁ ОСОБЫЙ@"    ; X SPECIAL (MORE SPECIAL)
+	db "ЯЩИК МОНЕТ@"    ; COIN CASE (CASE OF COINS)
+	db "ПАКЕТ ОАКА@"    ; OAK'S PARCEL
+	db "ВЕЩЬИСКАТЕЛЬ@"  ; ITEMFINDER
+	db "СИЛФИСКАТЕЛЬ@"  ; SILPH SCOPE (SILPH DETECTOR)
+	db "ПОКЕ—ФЛЕЙТА@"   ; POKE FLUTE
+	db "ЛЛЮЧ ЛИФТА@"    ; LIFT KEY
+	db "ОБЩАЯ ДОЛЯ@"    ; EXP.ALL (TOTAL SHARE)
+	db "СТАРАЯУДОЧКА@"  ; OLD ROD
+	db "ХОРОШАУДОЧКА@"  ; GOOD ROD
+	db "СУПЕР УДОЧКА@"  ; SUPER ROD
+	db "ОС ПРИПОСТ@"    ; PP UP (OS UP)
+	db "ОС ПОМОЩЬ@"     ; ETHER (OS HELP)
+	db "ОС ПОПРАВКА@"   ; MAX ETHER (OS RECOVERY)
+	db "ОС ЕЛИКСИР@"    ; ELIXIR (OS ELIXIR)
+	db "ОС ВСЁ@"        ; MAX ELIXIR (OS ALL)
+	db "B2Э@"
+	db "B1Э@"
+	db "1Э@"
+	db "2Э@"
+	db "3Э@"
+	db "4Э@"
+	db "5Э@"
+	db "6Э@"
+	db "7Э@"
+	db "8Э@"
+	db "9Э@"
+	db "10Э@"
+	db "11Э@"
+	db "B4Э@"
