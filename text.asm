@@ -1902,14 +1902,14 @@ _DoYouWantToNicknameText::
 	done
 
 _YourNameIsText::
-	text "Right! So your"
-	line "name is <PLAYER>!"
+	text "Понятно! Так тебе"  ; I see! So your
+	line "зовут <PLAYER>!"    ; name is <PLAYER>!
 	prompt
 
 _HisNameIsText::
-	text "That's right! I"
-	line "remember now! His"
-	cont "name is <RIVAL>!"
+	text "Это верно! Я"       ; That's right! I
+	line "вспомнил! Его"      ; remember now! His
+	cont "зовут <RIVAL>!"     ; name is <RIVAL>!
 	prompt
 
 _WillBeTradedText::
