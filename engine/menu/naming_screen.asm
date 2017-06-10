@@ -472,10 +472,10 @@ PrintNamingText:
 	ld a, [wNamingScreenType]
 	ld de, YourTextString
 	and a
-	jr z, .notNickname
+	jr z, .placeString
 	ld de, RivalsTextString
 	dec a
-	jr z, .notNickname
+	jr z, .placeString
 	ld a, [wcf91]
 	ld [wMonPartySpriteSpecies], a
 	push af
@@ -491,22 +491,14 @@ PrintNamingText:
 	coord hl, 1, 3
 	ld de, NicknameTextString
 	jr .placeString
-.notNickname
-	call PlaceString
-	ld l, c
-	ld h, b
-	ld de, NameTextString
 .placeString
 	jp PlaceString
 
 YourTextString:
-	db "YOUR @"
+	db "ТВОЁ ИМЯ?@"             ; YOUR NAME?
 
 RivalsTextString:
-	db "RIVAL's @"
-
-NameTextString:
-	db "NAME?@"
+	db "ИМЯ СОПЕРНИКА?@"        ; RIVAL'S NAME?
 
 NicknameTextString:
 	db "NICKNAME?@"
