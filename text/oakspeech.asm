@@ -1,7 +1,7 @@
 _OakSpeechText1::
-	text "Здравствуйте!"      ; Greetings!
-	line "Добро пожаловать"   ; Welcome
-	cont "в мире ПОКЕМОНа!"   ; to the world of Pokemon!
+	text "Здравствуй! Добро"  ; Greetings!
+	line "пожаловать в мире"  ; Welcome to the world
+	cont "ПОКЕМОНа!"          ; to the world of Pokemon!
 
 	para "Меня зовут ОАК!"    ; My name is OAK!
 	line "Люди зовут меня"    ; People call me
