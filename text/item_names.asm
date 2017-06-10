@@ -82,17 +82,17 @@ ItemNames:
 	db "ОС ПОПРАВКА@"   ; MAX ETHER (OS RECOVERY)
 	db "ОС ЕЛИКСИР@"    ; ELIXIR (OS ELIXIR)
 	db "ОС ВСЁ@"        ; MAX ELIXIR (OS ALL)
-	db "B2Э@"
-	db "B1Э@"
-	db "1Э@"
-	db "2Э@"
-	db "3Э@"
-	db "4Э@"
-	db "5Э@"
-	db "6Э@"
-	db "7Э@"
-	db "8Э@"
-	db "9Э@"
-	db "10Э@"
-	db "11Э@"
-	db "B4Э@"
+	db "П2Э@"           ; B2F
+	db "П1Э@"           ; B1F
+	db "1Э@"            ; 1F
+	db "2Э@"            ; 2F
+	db "3Э@"            ; 3F
+	db "4Э@"            ; 4F
+	db "5Э@"            ; 5F
+	db "6Э@"            ; 6F
+	db "7Э@"            ; 7F
+	db "8Э@"            ; 8F
+	db "9Э@"            ; 9F
+	db "10Э@"           ; 10F
+	db "11Э@"           ; 11F
+	db "П4Э@"           ; B4F
