@@ -1,55 +1,60 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "ОАК: Эй! Жди! Не"   ; OAK: Hey! Wait! Don't
+	line "выходи!@@"          ; go out!
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "ОАК: Это опасный!"  ; OAK: It's unsafe!
+	line "Дикие ПОКЕМОНы"     ; Wild POKEMON
+	cont "живут в высокой"    ; live in tall
+	cont "траве!"             ; grass!
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Тебе должен твой"   ; You need your
+	line "собственный ПОКЕ-"  ; own POKE-
+	cont "МОН для твоего"     ; MON for your
+	cont "защиты."            ; protection.
+	cont "Я знаю!"            ; I know!
 
-	para "Here, come with"
-	line "me!"
+	para "Пойди со мной!"     ; Come with me!
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "Я ращу ПОКЕМОНов"   ; I'm raising POKEMON
+	line "тоже!"              ; too!
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Когда они станут"   ; When they become
+	line "сильными, они"      ; strong, they
+	cont "смогут беречь"      ; can protect
+	cont "меня!"              ; me!
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "Технология изуми-"  ; Technology is
+	line "тельная!"           ; incredible!
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Теперь ты можешь"   ; Now you can
+	line "хранить и"          ; store and
+	cont "приносить вещи и"   ; retrieve items and
+	cont "ПОКЕМОНов как"      ; POKEMON as
+	cont "данные в"           ; data in
+	cont "компьютере!"        ; the computer!
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "ОАК ПОКЕМОН"        ; OAK POKEMON
+	line "ИССЛЕДОВАНИЕ"       ; RESEARCH
+	cont "ЛАБОРАТОРИЯ"        ; LAB
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "ПАЛЛЕТ-ТАУН"        ; PALLET TOWN
+	line "Оттенки вашего"     ; Shades of your
+	cont "путешествия ждут!"  ; journey await!
 	done
 
 _PalletTownText6::
-	text $52,"'s house "
+	text "Дом ",$52," "       ; <Player>'s house
 	done
 
 _PalletTownText7::
-	text $53,"'s house "
+	text "Дом ",$53," "       ; <Rival>'s house
 	done
