@@ -1,191 +1,191 @@
 MonsterNames:
-	db "RHYDON@@@@"
-	db "KANGASKHAN"
-	db "NIDORAN♂@@"
-	db "CLEFAIRY@@"
-	db "SPEAROW@@@"
-	db "VOLTORB@@@"
-	db "NIDOKING@@"
-	db "SLOWBRO@@@"
-	db "IVYSAUR@@@"
-	db "EXEGGUTOR@"
-	db "LICKITUNG@"
-	db "EXEGGCUTE@"
-	db "GRIMER@@@@"
-	db "GENGAR@@@@"
-	db "NIDORAN♀@@"
-	db "NIDOQUEEN@"
-	db "CUBONE@@@@"
-	db "RHYHORN@@@"
-	db "LAPRAS@@@@"
-	db "ARCANINE@@"
-	db "MEW@@@@@@@"
-	db "GYARADOS@@"
-	db "SHELLDER@@"
-	db "TENTACOOL@"
-	db "GASTLY@@@@"
-	db "SCYTHER@@@"
-	db "STARYU@@@@"
-	db "BLASTOISE@"
-	db "PINSIR@@@@"
-	db "TANGELA@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "GROWLITHE@"
-	db "ONIX@@@@@@"
-	db "FEAROW@@@@"
-	db "PIDGEY@@@@"
-	db "SLOWPOKE@@"
-	db "KADABRA@@@"
-	db "GRAVELER@@"
-	db "CHANSEY@@@"
-	db "MACHOKE@@@"
-	db "MR.MIME@@@"
-	db "HITMONLEE@"
-	db "HITMONCHAN"
-	db "ARBOK@@@@@"
-	db "PARASECT@@"
-	db "PSYDUCK@@@"
-	db "DROWZEE@@@"
-	db "GOLEM@@@@@"
-	db "MISSINGNO."
-	db "MAGMAR@@@@"
-	db "MISSINGNO."
-	db "ELECTABUZZ"
-	db "MAGNETON@@"
-	db "KOFFING@@@"
-	db "MISSINGNO."
-	db "MANKEY@@@@"
-	db "SEEL@@@@@@"
-	db "DIGLETT@@@"
-	db "TAUROS@@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "FARFETCH'D"
-	db "VENONAT@@@"
-	db "DRAGONITE@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "DODUO@@@@@"
-	db "POLIWAG@@@"
-	db "JYNX@@@@@@"
-	db "MOLTRES@@@"
-	db "ARTICUNO@@"
-	db "ZAPDOS@@@@"
-	db "DITTO@@@@@"
-	db "MEOWTH@@@@"
-	db "KRABBY@@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "VULPIX@@@@"
-	db "NINETALES@"
-	db "PIKACHU@@@"
-	db "RAICHU@@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "DRATINI@@@"
-	db "DRAGONAIR@"
-	db "KABUTO@@@@"
-	db "KABUTOPS@@"
-	db "HORSEA@@@@"
-	db "SEADRA@@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "SANDSHREW@"
-	db "SANDSLASH@"
-	db "OMANYTE@@@"
-	db "OMASTAR@@@"
-	db "JIGGLYPUFF"
-	db "WIGGLYTUFF"
-	db "EEVEE@@@@@"
-	db "FLAREON@@@"
-	db "JOLTEON@@@"
-	db "VAPOREON@@"
-	db "MACHOP@@@@"
-	db "ZUBAT@@@@@"
-	db "EKANS@@@@@"
-	db "PARAS@@@@@"
-	db "POLIWHIRL@"
-	db "POLIWRATH@"
-	db "WEEDLE@@@@"
-	db "KAKUNA@@@@"
-	db "BEEDRILL@@"
-	db "MISSINGNO."
-	db "DODRIO@@@@"
-	db "PRIMEAPE@@"
-	db "DUGTRIO@@@"
-	db "VENOMOTH@@"
-	db "DEWGONG@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "CATERPIE@@"
-	db "METAPOD@@@"
-	db "BUTTERFREE"
-	db "MACHAMP@@@"
-	db "MISSINGNO."
-	db "GOLDUCK@@@"
-	db "HYPNO@@@@@"
-	db "GOLBAT@@@@"
-	db "MEWTWO@@@@"
-	db "SNORLAX@@@"
-	db "MAGIKARP@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MUK@@@@@@@"
-	db "MISSINGNO."
-	db "KINGLER@@@"
-	db "CLOYSTER@@"
-	db "MISSINGNO."
-	db "ELECTRODE@"
-	db "CLEFABLE@@"
-	db "WEEZING@@@"
-	db "PERSIAN@@@"
-	db "MAROWAK@@@"
-	db "MISSINGNO."
-	db "HAUNTER@@@"
-	db "ABRA@@@@@@"
-	db "ALAKAZAM@@"
-	db "PIDGEOTTO@"
-	db "PIDGEOT@@@"
-	db "STARMIE@@@"
-	db "BULBASAUR@"
-	db "VENUSAUR@@"
-	db "TENTACRUEL"
-	db "MISSINGNO."
-	db "GOLDEEN@@@"
-	db "SEAKING@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "PONYTA@@@@"
-	db "RAPIDASH@@"
-	db "RATTATA@@@"
-	db "RATICATE@@"
-	db "NIDORINO@@"
-	db "NIDORINA@@"
-	db "GEODUDE@@@"
-	db "PORYGON@@@"
-	db "AERODACTYL"
-	db "MISSINGNO."
-	db "MAGNEMITE@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "CHARMANDER"
-	db "SQUIRTLE@@"
-	db "CHARMELEON"
-	db "WARTORTLE@"
-	db "CHARIZARD@"
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "MISSINGNO."
-	db "ODDISH@@@@"
-	db "GLOOM@@@@@"
-	db "VILEPLUME@"
-	db "BELLSPROUT"
-	db "WEEPINBELL"
-	db "VICTREEBEL"
+	db "РАЙДОН@@@@" ; RHYDON
+	db "КАНГАСХАН@" ; KANGASKHAN
+	db "НИДОРАН♂@@" ; NIDORAN♂
+	db "КЛЕФЭЙРИ@@" ; CLEFAIRY
+	db "СПИРОУ@@@@" ; SPEAROW
+	db "ВОЛТОРБ@@@" ; VOLTORB
+	db "НИДОКИНГ@@" ; NIDOKING
+	db "СЛОУБРО@@@" ; SLOWBRO
+	db "АЙВИЗАВР@@" ; IVYSAUR
+	db "ЭКЗЕГКЬЮТР" ; EXEGGCUTOR
+	db "ЛИКИТАНГ@@" ; LICKITUNG
+	db "ЭКСЕГКЬЮТ@" ; EXEGGCUTE
+	db "ГРАЙМЕР@@@" ; GRIMER
+	db "ГЕНГАР@@@@" ; GENGAR
+	db "НИДОРАН♀@@" ; NIDORAN♀
+	db "НИДОКВИН@@" ; NIDOQUEEN
+	db "КЬЮБОН@@@@" ; CUBONE
+	db "РАЙХОРН@@@" ; RHYHORN
+	db "ЛАПРАС@@@@" ; LAPRAS
+	db "АРКАНАЙН@@" ; ARCANINE
+	db "МЬЮ@@@@@@@" ; MEW
+	db "ГИАРАДОС@@" ; GYARADOS
+	db "ШЕЛЛДЕР@@@" ; SHELLDER
+	db "ТЕНТАКУЛ@@" ; TENTACOOL
+	db "ГАСТЛИ@@@@" ; GASTLY
+	db "СКАЙТЕР@@@" ; SCYTHER
+	db "СТАРЬЮ@@@@" ; STARYU
+	db "БЛАСТОЙЗ@@" ; BLASTOISE
+	db "ПИНСИР@@@@" ; PINSIR
+	db "ТАНГЕЛА@@@" ; TANGELA
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ГРОУЛИТ@@@" ; GROWLITHE
+	db "ОНИКС@@@@@" ; ONIX
+	db "ФИРОУ@@@@@" ; FEAROW
+	db "ПИДЖИ@@@@@" ; PIDGEY
+	db "СЛОУПОК@@@" ; SLOWPOKE
+	db "КАДАБРА@@@" ; KADABRA
+	db "ГРАВЕЛЕР@@" ; GRAVELER
+	db "ЧЕНСИ@@@@@" ; CHANSEY
+	db "МАЧОУК@@@@" ; MACHOKE
+	db "МИСТЕРМАЙМ" ; MR.MIME
+	db "ХИТМОНЛИ@@" ; HITMONLEE
+	db "ХИТМОНЧАН@" ; HITMONCHAN
+	db "АРБОК@@@@@" ; ARBOK
+	db "ПАРАСЕКТ@@" ; PARASECT
+	db "ПСАЙДАК@@@" ; PSYDUCK
+	db "ДРАУЗИ@@@@" ; DROWZEE
+	db "ГОЛЕМ@@@@@" ; GOLEM
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "МАГМАР@@@@" ; MAGMAR
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ЭЛЕКТАБАЗЗ" ; ELECTABUZZ
+	db "МАГНЕТОН@@" ; MAGNETON
+	db "КОФФИНГ@@@" ; KOFFING
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "МАНКИ@@@@@" ; MANKEY
+	db "СИЛ@@@@@@@" ; SEEL
+	db "ДИГЛЕТТ@@@" ; DIGLETT
+	db "ТАУРОС@@@@" ; TAUROS
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ФАРФЕТЧД@@" ; FARFETCH'D
+	db "ВЕНОНАТ@@@" ; VENONAT
+	db "ДРАГОНАЙТ@" ; DRAGONITE
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ДОДУО@@@@@" ; DODUO
+	db "ПОЛИВАГ@@@" ; POLIWAG
+	db "ДЖИНКС@@@@" ; JYNX
+	db "МОЛТРЕС@@@" ; MOLTRES
+	db "АРТИКУНО@@" ; ARTICUNO
+	db "ЗАПДОС@@@@" ; ZAPDOS
+	db "ДИТТО@@@@@" ; DITTO
+	db "МЯУТ@@@@@@" ; MEOWTH
+	db "КРАББИ@@@@" ; KRABBY
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ВАЛПИКС@@@" ; VULPIX
+	db "НАЙНТЭЙЛС@" ; NINETALES
+	db "ПИКАЧУ@@@@" ; PIKACHU
+	db "РАЙЧУ@@@@@" ; RAICHU
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ДРАТИНИ@@@" ; DRATINI
+	db "ДРАГОНЭЙР@" ; DRAGONAIR
+	db "КАБУТО@@@@" ; KABUTO
+	db "КАБУТОПС@@" ; KABUTOPS
+	db "ХОРСИ@@@@@" ; HORSEA
+	db "СИДРА@@@@@" ; SEADRA
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "СЭНДШРЮ@@@" ; SANDSHREW
+	db "СЭНДСЛЭШ@@" ; SANDSLASH
+	db "ОМАНАЙТ@@@" ; OMANYTE
+	db "ОМАСТАР@@@" ; OMASTAR
+	db "ДЖИГГЛИПАФ" ; JIGGLYPUFF
+	db "ВИГГЛИТАФФ" ; WIGGLYTUFF
+	db "ИВИ@@@@@@@" ; EEVEE
+	db "ФЛАРЕОН@@@" ; FLAREON
+	db "ДЖОЛТЕОН@@" ; JOLTEON
+	db "ВАПОРЕОН@@" ; VAPOREON
+	db "МАЧОП@@@@@" ; MACHOP
+	db "ЗУВАТ@@@@@" ; ZUBAT
+	db "ЭКАНС@@@@@" ; EKANS
+	db "ПАРАС@@@@@" ; PARAS
+	db "ПОЛИВИРЛ@@" ; POLIWHIRL
+	db "ПОЛИВРАТ@@" ; POLIWRATH
+	db "ВИДЛ@@@@@@" ; WEEDLE
+	db "КАКУНА@@@@" ; KAKUNA
+	db "БИДРИЛЛ@@@" ; BEEDRILL
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ДОДРИО@@@@" ; DODRIO
+	db "ПРАЙМЕЙП@@" ; PRIMEAPE
+	db "ДАГТРИО@@@" ; DUGTRIO
+	db "ВЕНОМОТ@@@" ; VENOMOTH
+	db "ДЬЮГОНГ@@@" ; DEWGONG
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "КАТЕРПИ@@@" ; CATERPIE
+	db "МЕТАПОД@@@" ; METAPOD
+	db "БАТТЕРФРИ@" ; BUTTERFREE
+	db "МАЧАМП@@@@" ; MACHAMP
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ГОЛДАК@@@@" ; GOLDUCK
+	db "ГИПНО@@@@@" ; HYPNO
+	db "ГОЛБАТ@@@@" ; GOLBAT
+	db "МЬЮТУ@@@@@" ; MEWTWO
+	db "СНОРЛАКС@@" ; SNORLAX
+	db "МЭДЖИКАРП@" ; MAGIKARP
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "МАК@@@@@@@" ; MUK
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "КИНГЛЕР@@@" ; KINGLER
+	db "КЛОЙСТЕР@@" ; CLOYSTER
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ЭЛЕКТРОД@@" ; ELECTRODE
+	db "КЛЕФЕЙБЛ@@" ; CLEFABLE
+	db "ВИЗИНГ@@@@" ; WEEZING
+	db "ПЕРСИАН@@@" ; PERSIAN
+	db "МАРОВАК@@@" ; MAROWAK
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ХОНТЕР@@@@" ; HAUNTER
+	db "АБРА@@@@@@" ; ABRA
+	db "АЛАКАЗАМ@@" ; ALAKAZAM
+	db "ПИДЖЕОТТО@" ; PIDGEOTTO
+	db "ПИДЖЕОТ@@@" ; PIDGEOT
+	db "СТАРМИ@@@@" ; STARMIE
+	db "БУЛЬБАЗАВР" ; BULBASAUR
+	db "ВЕНУЗАВР@@" ; VENUSAUR
+	db "ТЕНТАКРУЛ@" ; TENTACRUEL
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ГОЛДИН@@@@" ; GOLDEEN
+	db "СИКИНГ@@@@" ; SEAKING
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОНИТА@@@@" ; PONYTA
+	db "РАПИДАШ@@@" ; RAPIDASH
+	db "РАТТАТА@@@" ; RATTATA
+	db "РАТИКЕЙТ@@" ; RATICATE
+	db "НИДОРИНО@@" ; NIDORINO
+	db "НИДОРИНА@@" ; NIDORINA
+	db "ГЕОДУД@@@@" ; GEODUDE
+	db "ПОРИГОН@@@" ; PORYGON
+	db "АЭРОДАКТИЛ" ; AERODACTYL
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "МАГНЕМАЙТ@" ; MAGNEMITE
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ЧАРМАНДЕР@" ; CHARMANDER
+	db "СКВИРТЛ@@@" ; SQUIRTLE
+	db "ЧАРМЕЛЕОН@" ; CHARMELEON
+	db "ВАРТОРТЛ@@" ; WARTORTLE
+	db "ЧАРИЗАРД@@" ; CHARIZARD
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ПОТЕРЯННЫЙ" ; MISSINGNO.
+	db "ОДДИШ@@@@@" ; ODDISH
+	db "ГЛУМ@@@@@@" ; GLOOM
+	db "ВАЙЛПЛЮМ@@" ; VILEPLUME
+	db "БЕЛЛСПРАУТ" ; BELLSPROUT
+	db "ВИПИНБЕЛЛ@" ; WEEPINBELL
+	db "ВИКТРИБЕЛ@" ; VICTREEBEL
