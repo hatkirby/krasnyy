@@ -2120,12 +2120,12 @@ DisplayBattleMenu:
 	ld bc, NAME_LENGTH
 	call CopyData
 ; the following simulates the keystrokes by drawing menus on screen
-	coord hl, 9, 14
+	coord hl, 6, 14
 	ld [hl], "▶"
 	ld c, 80
 	call DelayFrames
 	ld [hl], " "
-	coord hl, 9, 16
+	coord hl, 6, 16
 	ld [hl], "▶"
 	ld c, 50
 	call DelayFrames
@@ -2150,9 +2150,9 @@ DisplayBattleMenu:
 	ld a, " "
 	jr z, .safariLeftColumn
 ; put cursor in left column for normal battle menu (i.e. when it's not a Safari battle)
-	Coorda 15, 14 ; clear upper cursor position in right column
-	Coorda 15, 16 ; clear lower cursor position in right column
-	ld b, $9 ; top menu item X
+	Coorda 12, 14 ; clear upper cursor position in right column
+	Coorda 12, 16 ; clear lower cursor position in right column
+	ld b, $6 ; top menu item X
 	jr .leftColumn_WaitForInput
 .safariLeftColumn
 	Coorda 13, 14
@@ -2183,9 +2183,9 @@ DisplayBattleMenu:
 	ld a, " "
 	jr z, .safariRightColumn
 ; put cursor in right column for normal battle menu (i.e. when it's not a Safari battle)
-	Coorda 9, 14 ; clear upper cursor position in left column
-	Coorda 9, 16 ; clear lower cursor position in left column
-	ld b, $f ; top menu item X
+	Coorda 6, 14 ; clear upper cursor position in left column
+	Coorda 6, 16 ; clear lower cursor position in left column
+	ld b, $c ; top menu item X
 	jr .rightColumn_WaitForInput
 .safariRightColumn
 	Coorda 1, 14 ; clear upper cursor position in left column
