@@ -30,19 +30,19 @@ TypeNames:
 	dw .Ice
 	dw .Dragon
 
-.Normal:   db "NORMAL@"
-.Fighting: db "FIGHTING@"
-.Flying:   db "FLYING@"
-.Poison:   db "POISON@"
-.Fire:     db "FIRE@"
-.Water:    db "WATER@"
-.Grass:    db "GRASS@"
-.Electric: db "ELECTRIC@"
-.Psychic:  db "PSYCHIC@"
-.Ice:      db "ICE@"
-.Ground:   db "GROUND@"
-.Rock:     db "ROCK@"
-.Bird:     db "BIRD@"
-.Bug:      db "BUG@"
-.Ghost:    db "GHOST@"
-.Dragon:   db "DRAGON@"
+.Normal:   db "ОБЫЧНИЙ@"     ; NORMAL
+.Fighting: db "СРАЖЕНИЕ@"    ; FIGHTING
+.Flying:   db "ЛЕТАЮЩИЙ@"    ; FLYING
+.Poison:   db "ЯД@"          ; POISON
+.Fire:     db "ОГОНЬ@"       ; FIRE
+.Water:    db "ВОДА@"        ; WATER
+.Grass:    db "ТРАВА@"       ; GRASS
+.Electric: db "ЭЛЕКТРО@"     ; ELECTRIC
+.Psychic:  db "ПСИХО@"       ; PSYCHIC
+.Ice:      db "ЛЁД@"         ; ICE
+.Ground:   db "ЗЕМЛЯ@"       ; GROUND
+.Rock:     db "КАМЕНЬ@"      ; ROCK
+.Bird:     db "ПТИЦА@"       ; BIRD
+.Bug:      db "ЖУК@"         ; BUG
+.Ghost:    db "ПРИЗРАК@"     ; GHOST
+.Dragon:   db "ДРАКОН@"      ; DRAGON
