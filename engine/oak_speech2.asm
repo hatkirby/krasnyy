@@ -67,7 +67,7 @@ HisNameIsText:
 OakSpeechSlidePicLeft:
 	push de
 	coord hl, 0, 0
-	lb bc, 12, 11
+	lb bc, 12, 12
 	call ClearScreenArea ; clear the name list text box
 	ld c, 10
 	call DelayFrames
@@ -163,9 +163,9 @@ DisplayIntroNameTextBox:
 	push de
 	coord hl, 0, 0
 	ld b, $a
-	ld c, $9
+	ld c, $a
 	call TextBoxBorder
-	coord hl, 3, 0
+	coord hl, 4, 0
 	ld de, .namestring
 	call PlaceString
 	pop de
@@ -185,37 +185,37 @@ DisplayIntroNameTextBox:
 	jp HandleMenuInput
 
 .namestring
-	db "NAME@"
+	db "ИМЯ@"
 
 IF DEF(_RED)
 DefaultNamesPlayer:
-	db   "NEW NAME"
-	next "RED"
-	next "ASH"
-	next "JACK"
+	db   "НОВОЕ ИМЯ"
+	next "КРАСНЫЙ"
+	next "ЭШ"
+	next "МИША"
 	db   "@"
 
 DefaultNamesRival:
-	db   "NEW NAME"
-	next "BLUE"
-	next "GARY"
-	next "JOHN"
+	db   "НОВОЕ ИМЯ"
+	next "СИНИЙ"
+	next "ГЭРИ"
+	next "КЕВИН"
 	db   "@"
 ENDC
 
 IF DEF(_BLUE)
 DefaultNamesPlayer:
-	db   "NEW NAME"
-	next "BLUE"
-	next "GARY"
-	next "JOHN"
+	db   "НОВОЕ ИМЯ"
+	next "СИНИЙ"
+	next "ГЭРИ"
+	next "КЕВИН"
 	db   "@"
 
 DefaultNamesRival:
-	db   "NEW NAME"
-	next "RED"
-	next "ASH"
-	next "JACK"
+	db   "НОВОЕ ИМЯ"
+	next "КРАСНЫЙ"
+	next "ЭШ"
+	next "МИША"
 	db   "@"
 ENDC
 
@@ -245,27 +245,27 @@ GetDefaultName:
 
 IF DEF(_RED)
 DefaultNamesPlayerList:
-	db "NEW NAME@"
-	db "RED@"
-	db "ASH@"
-	db "JACK@"
+	db "НОВОЕ ИМЯ@"
+	db "КРАСНЫЙ@"
+	db "ЭШ@"
+	db "МИША@"
 DefaultNamesRivalList:
-	db "NEW NAME@"
-	db "BLUE@"
-	db "GARY@"
-	db "JOHN@"
+	db "НОВОЕ ИМЯ@"
+	db "СИНИЙ@"
+	db "ГЭРИ@"
+	db "КЕВИН@"
 ENDC
 IF DEF(_BLUE)
 DefaultNamesPlayerList:
-	db "NEW NAME@"
-	db "BLUE@"
-	db "GARY@"
-	db "JOHN@"
+	db "НОВОЕ ИМЯ@"
+	db "СИНИЙ@"
+	db "ГЭРИ@"
+	db "КЕВИН@"
 DefaultNamesRivalList:
-	db "NEW NAME@"
-	db "RED@"
-	db "ASH@"
-	db "JACK@"
+	db "НОВОЕ ИМЯ@"
+	db "КРАСНЫЙ@"
+	db "ЭШ@"
+	db "МИША@"
 ENDC
 
 TextTerminator_6b20:
